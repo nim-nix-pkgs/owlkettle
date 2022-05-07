@@ -42,11 +42,11 @@
     "src-owlkettle-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1651352996,
-        "narHash": "sha256-YNM+RTX/r6MxScK7HIGc22WrH9gk4T0xzoUL9L6uw9o=",
+        "lastModified": 1651769748,
+        "narHash": "sha256-K/Z5mYYIzn/L5lyj/BtnJSDJSvDUxMNWsIR0wTGL1lo=",
         "owner": "can-lehmann",
         "repo": "owlkettle",
-        "rev": "2156e1d14492c1f84a837ad763051226717d0349",
+        "rev": "787bca7369d66cb3bdddefb665dab97cc0672bfc",
         "type": "github"
       },
       "original": {
