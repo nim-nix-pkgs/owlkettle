@@ -5,6 +5,34 @@
   "tags": [
     {
       "name": "owlkettle",
+      "version": "1.4.0",
+      "author": "Can Joshua Lehmann",
+      "desc": "A declarative user interface framework based on GTK",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/v.1.4.0"
+    },
+    {
+      "name": "owlkettle",
       "version": "1.0.0",
       "author": "Can Joshua Lehmann",
       "desc": "A declarative user interface framework based on GTK",
@@ -121,6 +149,7 @@
   "web": "https://github.com/can-lehmann/owlkettle",
   "refs": [
     "refs/heads/main",
+    "refs/tags/v.1.4.0",
     "refs/tags/v1.0.0",
     "refs/tags/v1.1.0",
     "refs/tags/v1.2.0",
