@@ -15,6 +15,14 @@
   inputs."owlkettle-main".inputs.nixpkgs.follows = "nixpkgs";
   inputs."owlkettle-main".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
+  inputs."owlkettle-v_1_4_0".dir   = "v_1_4_0";
+  inputs."owlkettle-v_1_4_0".owner = "nim-nix-pkgs";
+  inputs."owlkettle-v_1_4_0".ref   = "master";
+  inputs."owlkettle-v_1_4_0".repo  = "owlkettle";
+  inputs."owlkettle-v_1_4_0".type  = "github";
+  inputs."owlkettle-v_1_4_0".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."owlkettle-v_1_4_0".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
   inputs."owlkettle-v1_0_0".dir   = "v1_0_0";
   inputs."owlkettle-v1_0_0".owner = "nim-nix-pkgs";
   inputs."owlkettle-v1_0_0".ref   = "master";
