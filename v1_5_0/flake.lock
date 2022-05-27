@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-owlkettle-main": "src-owlkettle-main"
+        "src-owlkettle-v1_5_0": "src-owlkettle-v1_5_0"
       }
     },
-    "src-owlkettle-main": {
+    "src-owlkettle-v1_5_0": {
       "flake": false,
       "locked": {
         "lastModified": 1653492631,
@@ -51,7 +51,7 @@
       },
       "original": {
         "owner": "can-lehmann",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/v1.5.0",
         "repo": "owlkettle",
         "type": "github"
       }

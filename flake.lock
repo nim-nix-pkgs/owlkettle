@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1652791824,
-        "narHash": "sha256-LtWsse0PkKIzfT8bEDvu1KrNtioSZ++QbvHnYCXvLsY=",
+        "lastModified": 1653686749,
+        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "28437ea1cd99e0435103d16bb1e09609fe3fc41a",
+        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1652791824,
-        "narHash": "sha256-LtWsse0PkKIzfT8bEDvu1KrNtioSZ++QbvHnYCXvLsY=",
+        "lastModified": 1653686749,
+        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "28437ea1cd99e0435103d16bb1e09609fe3fc41a",
+        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
         "type": "github"
       },
       "original": {
@@ -98,11 +98,11 @@
       },
       "locked": {
         "dir": "v1_1_0",
-        "lastModified": 1652791824,
-        "narHash": "sha256-LtWsse0PkKIzfT8bEDvu1KrNtioSZ++QbvHnYCXvLsY=",
+        "lastModified": 1653686749,
+        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "28437ea1cd99e0435103d16bb1e09609fe3fc41a",
+        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
         "type": "github"
       },
       "original": {
@@ -125,11 +125,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1652791824,
-        "narHash": "sha256-LtWsse0PkKIzfT8bEDvu1KrNtioSZ++QbvHnYCXvLsY=",
+        "lastModified": 1653686749,
+        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "28437ea1cd99e0435103d16bb1e09609fe3fc41a",
+        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
         "type": "github"
       },
       "original": {
@@ -152,15 +152,42 @@
       },
       "locked": {
         "dir": "v1_3_0",
-        "lastModified": 1652791824,
-        "narHash": "sha256-LtWsse0PkKIzfT8bEDvu1KrNtioSZ++QbvHnYCXvLsY=",
+        "lastModified": 1653686749,
+        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "28437ea1cd99e0435103d16bb1e09609fe3fc41a",
+        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
         "type": "github"
       },
       "original": {
         "dir": "v1_3_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "owlkettle",
+        "type": "github"
+      }
+    },
+    "owlkettle-v1_5_0": {
+      "inputs": {
+        "flakeNimbleLib": [
+          "flakeNimbleLib"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ],
+        "src-owlkettle-v1_5_0": "src-owlkettle-v1_5_0"
+      },
+      "locked": {
+        "dir": "v1_5_0",
+        "lastModified": 1653686749,
+        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
+        "owner": "nim-nix-pkgs",
+        "repo": "owlkettle",
+        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
+        "type": "github"
+      },
+      "original": {
+        "dir": "v1_5_0",
         "owner": "nim-nix-pkgs",
         "ref": "master",
         "repo": "owlkettle",
@@ -179,11 +206,11 @@
       },
       "locked": {
         "dir": "v_1_4_0",
-        "lastModified": 1652791824,
-        "narHash": "sha256-LtWsse0PkKIzfT8bEDvu1KrNtioSZ++QbvHnYCXvLsY=",
+        "lastModified": 1653686749,
+        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "28437ea1cd99e0435103d16bb1e09609fe3fc41a",
+        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
         "type": "github"
       },
       "original": {
@@ -203,6 +230,7 @@
         "owlkettle-v1_1_0": "owlkettle-v1_1_0",
         "owlkettle-v1_2_0": "owlkettle-v1_2_0",
         "owlkettle-v1_3_0": "owlkettle-v1_3_0",
+        "owlkettle-v1_5_0": "owlkettle-v1_5_0",
         "owlkettle-v_1_4_0": "owlkettle-v_1_4_0"
       }
     },
@@ -287,6 +315,23 @@
       "original": {
         "owner": "can-lehmann",
         "ref": "refs/tags/v1.3.0",
+        "repo": "owlkettle",
+        "type": "github"
+      }
+    },
+    "src-owlkettle-v1_5_0": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1653492631,
+        "narHash": "sha256-aB6272CGzQZZq8hA3BWHFpFmc/ozqn+loyvtEGUU/bw=",
+        "owner": "can-lehmann",
+        "repo": "owlkettle",
+        "rev": "5e3ba857250ff695f4d200e91306eac40944bff6",
+        "type": "github"
+      },
+      "original": {
+        "owner": "can-lehmann",
+        "ref": "refs/tags/v1.5.0",
         "repo": "owlkettle",
         "type": "github"
       }
