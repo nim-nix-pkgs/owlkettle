@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1653686749,
-        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
+        "lastModified": 1653690048,
+        "narHash": "sha256-jKCnOBaJU1h1BkFCFOGFupQ6rLWUdG6An8QkpsTJzzc=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
+        "rev": "9a3622b6f4f3162431ca0e32e88cbf0bfbefa32d",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1653686749,
-        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
+        "lastModified": 1653690048,
+        "narHash": "sha256-jKCnOBaJU1h1BkFCFOGFupQ6rLWUdG6An8QkpsTJzzc=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
+        "rev": "9a3622b6f4f3162431ca0e32e88cbf0bfbefa32d",
         "type": "github"
       },
       "original": {
@@ -98,11 +98,11 @@
       },
       "locked": {
         "dir": "v1_1_0",
-        "lastModified": 1653686749,
-        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
+        "lastModified": 1653690048,
+        "narHash": "sha256-jKCnOBaJU1h1BkFCFOGFupQ6rLWUdG6An8QkpsTJzzc=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
+        "rev": "9a3622b6f4f3162431ca0e32e88cbf0bfbefa32d",
         "type": "github"
       },
       "original": {
@@ -125,11 +125,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1653686749,
-        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
+        "lastModified": 1653690048,
+        "narHash": "sha256-jKCnOBaJU1h1BkFCFOGFupQ6rLWUdG6An8QkpsTJzzc=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
+        "rev": "9a3622b6f4f3162431ca0e32e88cbf0bfbefa32d",
         "type": "github"
       },
       "original": {
@@ -152,11 +152,11 @@
       },
       "locked": {
         "dir": "v1_3_0",
-        "lastModified": 1653686749,
-        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
+        "lastModified": 1653690048,
+        "narHash": "sha256-jKCnOBaJU1h1BkFCFOGFupQ6rLWUdG6An8QkpsTJzzc=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
+        "rev": "9a3622b6f4f3162431ca0e32e88cbf0bfbefa32d",
         "type": "github"
       },
       "original": {
@@ -179,11 +179,11 @@
       },
       "locked": {
         "dir": "v1_5_0",
-        "lastModified": 1653686749,
-        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
+        "lastModified": 1653690048,
+        "narHash": "sha256-jKCnOBaJU1h1BkFCFOGFupQ6rLWUdG6An8QkpsTJzzc=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
+        "rev": "9a3622b6f4f3162431ca0e32e88cbf0bfbefa32d",
         "type": "github"
       },
       "original": {
@@ -206,11 +206,11 @@
       },
       "locked": {
         "dir": "v_1_4_0",
-        "lastModified": 1653686749,
-        "narHash": "sha256-vjrfcQjo+9KG+IHfCupO8xGqKqYDMM7urZsmIe+3zfM=",
+        "lastModified": 1653690048,
+        "narHash": "sha256-jKCnOBaJU1h1BkFCFOGFupQ6rLWUdG6An8QkpsTJzzc=",
         "owner": "nim-nix-pkgs",
         "repo": "owlkettle",
-        "rev": "a8e31137d04f3209d7ce83246fd815b4f89beff8",
+        "rev": "9a3622b6f4f3162431ca0e32e88cbf0bfbefa32d",
         "type": "github"
       },
       "original": {
@@ -237,11 +237,11 @@
     "src-owlkettle-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1652458022,
-        "narHash": "sha256-KZ9/BEfhN1jMb88M7jRevSnXNDTKZBEFm6iR9Vw3y+4=",
+        "lastModified": 1653492631,
+        "narHash": "sha256-aB6272CGzQZZq8hA3BWHFpFmc/ozqn+loyvtEGUU/bw=",
         "owner": "can-lehmann",
         "repo": "owlkettle",
-        "rev": "b056b5d385b40c38e87674dfd8efc99ae7477990",
+        "rev": "5e3ba857250ff695f4d200e91306eac40944bff6",
         "type": "github"
       },
       "original": {
