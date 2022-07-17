@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-owlkettle-main": "src-owlkettle-main"
+        "src-owlkettle-v2_0_0": "src-owlkettle-v2_0_0"
       }
     },
-    "src-owlkettle-main": {
+    "src-owlkettle-v2_0_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1658004179,
-        "narHash": "sha256-PHWfIkpuqladevaqsfeq3uwXOqjRs1+TyUQPfyfsB28=",
+        "lastModified": 1657744037,
+        "narHash": "sha256-02ik10vB3pu8dr1U6Re3+uBg7EKgSH9QAGhI0J290qg=",
         "owner": "can-lehmann",
         "repo": "owlkettle",
-        "rev": "c16197273db22c7bc6d343fe772739d1ed554c7d",
+        "rev": "ff14e6acdf809f94f1d0c1ffbda6a1d5e4f12e66",
         "type": "github"
       },
       "original": {
         "owner": "can-lehmann",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/v2.0.0",
         "repo": "owlkettle",
         "type": "github"
       }
